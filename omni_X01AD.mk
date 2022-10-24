@@ -28,7 +28,10 @@ PRODUCT_PACKAGES += \
 # Encryption
 PRODUCT_PACKAGES += \
     libcryptfs_hw
-
+PRODUCT_PACKAGES += \
+    qcom_decrypt \
+    qcom_decrypt_fbe
+    
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := X01AD
 PRODUCT_NAME := omni_X01AD
