@@ -138,3 +138,6 @@ TW_INCLUDE_FUSE_NTFS := true
 ALLOW_MISSING_DEPENDENCIES=true
 # Platform version
 PLATFORM_VERSION := 16.1.0
+
+#Extras props
+TARGET_VENDOR_PROP += $(LOCAL_PATH)/vendor.prop
