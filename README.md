@@ -1,3 +1,4 @@
+Credit to https://github.com/azwhikaru/Action-TWRP-Builder for the CI
 TWRP Device Tree for Asus Zenfone Max M2 (X01AD)
 ===========================================
 
